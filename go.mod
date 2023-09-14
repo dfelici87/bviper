@@ -1,4 +1,4 @@
-module github.com/go-bricks/bviper
+module github.com/dfelici87/bviper
 
 go 1.19
 
